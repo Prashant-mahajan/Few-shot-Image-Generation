@@ -18,6 +18,16 @@ The gist of this project is that the Reptile meta-learning algorithm is compatib
 For the different command line options, simply write:
 
     $ python train.py --help
+
+# Results
+
+### Result at Epoch 1:
+
+<img src = 'results/0.png' height = 350px, width = 350px>
+
+### Result at Epoch 500:
+
+<img src = 'results/500.png' height = 350px, width = 350px>
        
 If you use this code for your own projects, please consider __citing the following paper__:
 
