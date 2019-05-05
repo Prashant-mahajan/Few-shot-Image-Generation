@@ -1,17 +1,16 @@
-# Few-shot-learning
-General Adversial Networks using Few shot learning
+# Few Shot Image Generation
 
-Methods used:
+Generating images using GAN: Using four input images
 
-- Meta learning
+### Methods used:
 
-FIGR: meta-training DCGAN with Reptile
+1) FIGR: Meta-training DCGAN with Reptile
 
-- Transfer learning and data augmentation with following GAN architectures:
+2) Transfer learning and data augmentation with following GAN architectures:
 
-1) DCGAN
-2) cDCGAN
-3) InfoGAN
+- DCGAN
+- cDCGAN
+- InfoGAN
 
 
 
