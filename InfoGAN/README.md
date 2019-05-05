@@ -14,5 +14,14 @@ python3 train-generate.py
 
 ----
 
-Result at Epoch 1:
+### Result at Epoch 1:
 
+<img src = 'Results/Epoch_Fashion_Boot_1 FashionMNIST.png' height = 350px, width = 350px>
+
+### Result at Epoch 70:
+
+<img src = 'Results/Epoch_Fashion_Boot_71 FashionMNIST.png' height = 350px, width = 350px>
+
+### Loss curve
+
+<img src = 'Results/Loss Curve FashionMNIST.png' height = 350px, width = 350px>
