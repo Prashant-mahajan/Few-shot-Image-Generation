@@ -11,7 +11,7 @@ FIGR: meta-training DCGAN with Reptile
 
 1) DCGAN
 2) cDCGAN
-3) infoGAN
+3) InfoGAN
 
 
 
