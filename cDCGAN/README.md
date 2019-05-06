@@ -4,10 +4,10 @@
 
 <img src = 'results/Conditional-DCGAN_0.jpg' height = 350px, width = 350px>
 
-### Result at Epoch 50:
+### Result at Epoch 20:
 
-<img src = 'results/Conditional-DCGAN_50.jpg' height = 350px, width = 350px>
+<img src = 'results/Conditional-DCGAN_20.jpg' height = 350px, width = 350px>
 
-### Result at Epoch 50:
+### Result at Epoch 100:
 
 <img src = 'results/Conditional-DCGAN_100.jpg' height = 350px, width = 350px>
