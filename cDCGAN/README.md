@@ -1,11 +1,13 @@
 ## cDCGAN 
 
-Results at Epoch 0, 4 and 9 respectively:
+### Result at Epoch 1:
 
+<img src = 'results/Conditional-DCGAN_0.jpg' height = 350px, width = 350px>
 
+### Result at Epoch 50:
 
-<p float="center">
-  <img src="epoch-0.png" width="200" title="Epoch 0 "/>
-  <img src="epoch-4.png" width="200" title="Epoch 4 "/> 
-  <img src="epoch-9.png" width="200" title="Epoch 9 "/>
-</p>
+<img src = 'results/Conditional-DCGAN_50.jpg' height = 350px, width = 350px>
+
+### Result at Epoch 50:
+
+<img src = 'results/Conditional-DCGAN_100.jpg' height = 350px, width = 350px>
