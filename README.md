@@ -13,6 +13,9 @@ Generating images using GAN: Using four input images
 - InfoGAN
 
 ----
+## Dataset
+
+<img src = 'dataset.png' height = 350px, width = 350px>
 
 ## Evaluation Metrics:
 
