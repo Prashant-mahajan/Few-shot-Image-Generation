@@ -12,6 +12,12 @@ Generating images using GAN: Using four input images
 - cDCGAN
 - InfoGAN
 
+----
+
+Evaluation Metrics:
+
+
+
 
 
 
